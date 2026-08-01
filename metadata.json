@@ -1,0 +1,6 @@
+{
+  "name": "Путь мусульманина",
+  "description": "3D симулятор повседневной жизни мусульманина (The Muslim Life Simulator)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
